@@ -3,16 +3,23 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Food! | Home</title>
+    <title>Home | Food!</title>
     <link rel="stylesheet" href="/css/style.css" />
-    <script src="./js/main.js" type="module" defer></script>
+    <script src="/js/main" type="module" defer></script>
   </head>
   <body>
-    <header class="divider" id="main-header"></header>
-    <main class="divider">
- 
+    <main>
+      <header id="main-header"></header>
+      
+      <input type="text" class="search-input" id="search_input" placeholder="Search UPC" />
+      <p class="search-icon" id="search_icon">&#128269; Search!</p>
 
+      <h1>Food!</h1>
+      <p>Food! What a wonderful thing. And you know what’s even better than eating food? Obsessing over food data! So go ahead, give it a try! Enter the whole Universal Product Code (UPC) in the searchbar above and see what it's got (yes the whole number, including the unattached floaters). Maybe some protein? Maybe some allergens? The world's your oyster! <span class="geist-mono-400">(041253003134)</span></p>
+      <img id="upc_explainer" src="/images/upc.png" alt="upc explainer">
+  
+  
+      <footer id="main-footer"></footer>
     </main>
-    <footer id="main-footer"></footer>
   </body>
 </html>

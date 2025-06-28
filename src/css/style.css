@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Geist+Mono:wght@100..900&display=swap');
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+:root {
+  --background-color: #212227;
+  --text-color: #eef2fb;
+  --pale-purple: #E8D7F1;
+  --royal-purple: #7D5BA6;
+  --celeste-blue: #B1F8F2;
+  --teal: #087E8B;
+
+}
+
+/* custom font */
+.andika-regular {
+  font-family: "Andika", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.andika-bold {
+  font-family: "Andika", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.geist-mono-400 {
+  font-family: "Geist Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* image links */
+.logo_link {
+  height: 65px;
+  width: 55px;
+}
+.github_link {
+  width: 40px;
+  height: 40px;
+}
+
+/* text */
+h1, h2, h3, p, a {
+  font-family: "Andika", sans-serif;
+  color: var(--text-color);
+}
+
+/* main */
+body {
+  background-color: var(--background-color);
+}
+
+/* main page */
+#upc_explainer {
+  height: 230px;
+  width: 350px;
+}
+
+
+
+
+
+/* bigger screens */
+@media only screen and (min-width: 480px) {
+  /* general */
+  body {
+    /* background-color: blue; */
+  }
+  main {
+    max-width: 900px;
+    margin-inline: auto;
+  }
+}

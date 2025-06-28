@@ -1,3 +1,6 @@
-import { loadHeaderFooter } from "./utils.mjs";
+// import { loadHeaderFooter } from "./utils.mjs";
+import * as Utils from "./utils.mjs";
+import * as Main from "./mainModules.mjs";
 
-loadHeaderFooter();
+Utils.loadHeaderFooter();
+Main.loadSearch();
