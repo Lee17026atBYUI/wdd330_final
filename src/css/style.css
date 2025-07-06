@@ -45,7 +45,7 @@
 }
 
 /* text */
-h1, h2, h3, p, a {
+h1, h2, h3, p, a, div {
   font-family: "Andika", sans-serif;
   color: var(--text-color);
 }

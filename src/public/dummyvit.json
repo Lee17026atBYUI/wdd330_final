@@ -1,0 +1,2010 @@
+{
+  "code": "0096619663712",
+  "product": {
+    "_id": "0096619663712",
+    "_keywords": [
+      "adult",
+      "dietary",
+      "gummie",
+      "kirkland",
+      "multivitamin",
+      "supplement",
+      "vitamin"
+    ],
+    "added_countries_tags": [],
+    "additives_n": 4,
+    "additives_original_tags": [
+      "en:e428",
+      "en:e440",
+      "en:e903",
+      "en:e161b"
+    ],
+    "additives_tags": [
+      "en:e161b",
+      "en:e428",
+      "en:e440",
+      "en:e903"
+    ],
+    "allergens": "",
+    "allergens_from_ingredients": "gelatin",
+    "allergens_from_user": "(en) ",
+    "allergens_hierarchy": [
+      "en:gelatin"
+    ],
+    "allergens_tags": [
+      "en:gelatin"
+    ],
+    "amino_acids_tags": [],
+    "brands": "Kirkland",
+    "brands_tags": [
+      "kirkland"
+    ],
+    "categories": "Dietary supplements, Vitamins",
+    "categories_hierarchy": [
+      "en:dietary-supplements",
+      "en:vitamins"
+    ],
+    "categories_lc": "en",
+    "categories_old": "Dietary supplements, Vitamins",
+    "categories_properties": {},
+    "categories_properties_tags": [
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-unknown",
+      "agribalyse-proxy-food-code-unknown",
+      "ciqual-food-code-unknown",
+      "agribalyse-unknown"
+    ],
+    "categories_tags": [
+      "en:dietary-supplements",
+      "en:vitamins"
+    ],
+    "category_properties": {},
+    "checkers_tags": [],
+    "ciqual_food_name_tags": [
+      "unknown"
+    ],
+    "code": "0096619663712",
+    "codes_tags": [
+      "code-13",
+      "conflict-with-upc-12",
+      "0096619663xxx",
+      "009661966xxxx",
+      "00966196xxxxx",
+      "0096619xxxxxx",
+      "009661xxxxxxx",
+      "00966xxxxxxxx",
+      "0096xxxxxxxxx",
+      "009xxxxxxxxxx",
+      "00xxxxxxxxxxx",
+      "0xxxxxxxxxxxx"
+    ],
+    "compared_to_category": "en:vitamins",
+    "complete": 0,
+    "completeness": 0.7875,
+    "correctors_tags": [
+      "prepperapp",
+      "inf",
+      "dollarbell",
+      "yuka.sY2b0xO6T85zoF3NwEKvlmNtc4bn-wreLAHUmhOF7IqgIZLRf958wJT1M6g",
+      "kiliweb",
+      "waistline-app",
+      "packbot",
+      "scanbot"
+    ],
+    "countries": "Germany, en:united-states",
+    "countries_beforescanbot": "en:Germany",
+    "countries_hierarchy": [
+      "en:germany",
+      "en:united-states"
+    ],
+    "countries_lc": "en",
+    "countries_tags": [
+      "en:germany",
+      "en:united-states"
+    ],
+    "created_t": 1562046830,
+    "creator": "waistline-app",
+    "data_quality_bugs_tags": [],
+    "data_quality_errors_tags": [],
+    "data_quality_info_tags": [
+      "en:packaging-data-incomplete",
+      "en:ingredients-percent-analysis-ok",
+      "en:environmental-score-extended-data-not-computed",
+      "en:food-groups-1-unknown",
+      "en:food-groups-2-unknown",
+      "en:food-groups-3-unknown"
+    ],
+    "data_quality_tags": [
+      "en:packaging-data-incomplete",
+      "en:ingredients-percent-analysis-ok",
+      "en:environmental-score-extended-data-not-computed",
+      "en:food-groups-1-unknown",
+      "en:food-groups-2-unknown",
+      "en:food-groups-3-unknown",
+      "en:ingredients-unknown-score-above-10",
+      "en:ingredients-60-percent-unknown",
+      "en:ingredients-ingredient-tag-length-greater-than-50",
+      "en:ingredients-ingredient-tag-length-greater-than-100",
+      "en:product-quantity-under-1g",
+      "en:serving-quantity-over-product-quantity",
+      "en:environmental-score-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:environmental-score-packaging-unspecified-shape",
+      "en:environmental-score-production-system-no-label"
+    ],
+    "data_quality_warnings_tags": [
+      "en:ingredients-unknown-score-above-10",
+      "en:ingredients-60-percent-unknown",
+      "en:ingredients-ingredient-tag-length-greater-than-50",
+      "en:ingredients-ingredient-tag-length-greater-than-100",
+      "en:product-quantity-under-1g",
+      "en:serving-quantity-over-product-quantity",
+      "en:environmental-score-origins-of-ingredients-origins-are-100-percent-unknown",
+      "en:environmental-score-packaging-unspecified-shape",
+      "en:environmental-score-production-system-no-label"
+    ],
+    "data_sources": "App - waistline, Apps, App - yuka, App - InFood, App - Open Food Facts, App - Speisekammer",
+    "data_sources_tags": [
+      "app-waistline",
+      "apps",
+      "app-yuka",
+      "app-infood",
+      "app-open-food-facts",
+      "app-speisekammer"
+    ],
+    "ecoscore_data": {
+      "adjustments": {
+        "origins_of_ingredients": {
+          "aggregated_origins": [
+            {
+              "epi_score": 0,
+              "origin": "en:unknown",
+              "percent": 100,
+              "transportation_score": 0
+            }
+          ],
+          "epi_score": 0,
+          "epi_value": -5,
+          "origins_from_categories": [
+            "en:unknown"
+          ],
+          "origins_from_origins_field": [
+            "en:unknown"
+          ],
+          "transportation_score": 0,
+          "transportation_scores": {
+            "ad": 0,
+            "al": 0,
+            "at": 0,
+            "ax": 0,
+            "ba": 0,
+            "be": 0,
+            "bg": 0,
+            "ch": 0,
+            "cy": 0,
+            "cz": 0,
+            "de": 0,
+            "dk": 0,
+            "dz": 0,
+            "ee": 0,
+            "eg": 0,
+            "es": 0,
+            "fi": 0,
+            "fo": 0,
+            "fr": 0,
+            "gg": 0,
+            "gi": 0,
+            "gr": 0,
+            "hr": 0,
+            "hu": 0,
+            "ie": 0,
+            "il": 0,
+            "im": 0,
+            "is": 0,
+            "it": 0,
+            "je": 0,
+            "lb": 0,
+            "li": 0,
+            "lt": 0,
+            "lu": 0,
+            "lv": 0,
+            "ly": 0,
+            "ma": 0,
+            "mc": 0,
+            "md": 0,
+            "me": 0,
+            "mk": 0,
+            "mt": 0,
+            "nl": 0,
+            "no": 0,
+            "pl": 0,
+            "ps": 0,
+            "pt": 0,
+            "ro": 0,
+            "rs": 0,
+            "se": 0,
+            "si": 0,
+            "sj": 0,
+            "sk": 0,
+            "sm": 0,
+            "sy": 0,
+            "tn": 0,
+            "tr": 0,
+            "ua": 0,
+            "uk": 0,
+            "us": 0,
+            "va": 0,
+            "world": 0,
+            "xk": 0
+          },
+          "transportation_value": 0,
+          "transportation_values": {
+            "ad": 0,
+            "al": 0,
+            "at": 0,
+            "ax": 0,
+            "ba": 0,
+            "be": 0,
+            "bg": 0,
+            "ch": 0,
+            "cy": 0,
+            "cz": 0,
+            "de": 0,
+            "dk": 0,
+            "dz": 0,
+            "ee": 0,
+            "eg": 0,
+            "es": 0,
+            "fi": 0,
+            "fo": 0,
+            "fr": 0,
+            "gg": 0,
+            "gi": 0,
+            "gr": 0,
+            "hr": 0,
+            "hu": 0,
+            "ie": 0,
+            "il": 0,
+            "im": 0,
+            "is": 0,
+            "it": 0,
+            "je": 0,
+            "lb": 0,
+            "li": 0,
+            "lt": 0,
+            "lu": 0,
+            "lv": 0,
+            "ly": 0,
+            "ma": 0,
+            "mc": 0,
+            "md": 0,
+            "me": 0,
+            "mk": 0,
+            "mt": 0,
+            "nl": 0,
+            "no": 0,
+            "pl": 0,
+            "ps": 0,
+            "pt": 0,
+            "ro": 0,
+            "rs": 0,
+            "se": 0,
+            "si": 0,
+            "sj": 0,
+            "sk": 0,
+            "sm": 0,
+            "sy": 0,
+            "tn": 0,
+            "tr": 0,
+            "ua": 0,
+            "uk": 0,
+            "us": 0,
+            "va": 0,
+            "world": 0,
+            "xk": 0
+          },
+          "value": -5,
+          "values": {
+            "ad": -5,
+            "al": -5,
+            "at": -5,
+            "ax": -5,
+            "ba": -5,
+            "be": -5,
+            "bg": -5,
+            "ch": -5,
+            "cy": -5,
+            "cz": -5,
+            "de": -5,
+            "dk": -5,
+            "dz": -5,
+            "ee": -5,
+            "eg": -5,
+            "es": -5,
+            "fi": -5,
+            "fo": -5,
+            "fr": -5,
+            "gg": -5,
+            "gi": -5,
+            "gr": -5,
+            "hr": -5,
+            "hu": -5,
+            "ie": -5,
+            "il": -5,
+            "im": -5,
+            "is": -5,
+            "it": -5,
+            "je": -5,
+            "lb": -5,
+            "li": -5,
+            "lt": -5,
+            "lu": -5,
+            "lv": -5,
+            "ly": -5,
+            "ma": -5,
+            "mc": -5,
+            "md": -5,
+            "me": -5,
+            "mk": -5,
+            "mt": -5,
+            "nl": -5,
+            "no": -5,
+            "pl": -5,
+            "ps": -5,
+            "pt": -5,
+            "ro": -5,
+            "rs": -5,
+            "se": -5,
+            "si": -5,
+            "sj": -5,
+            "sk": -5,
+            "sm": -5,
+            "sy": -5,
+            "tn": -5,
+            "tr": -5,
+            "ua": -5,
+            "uk": -5,
+            "us": -5,
+            "va": -5,
+            "world": -5,
+            "xk": -5
+          },
+          "warning": "origins_are_100_percent_unknown"
+        },
+        "packaging": {
+          "non_recyclable_and_non_biodegradable_materials": 1,
+          "packagings": [
+            {
+              "environmental_score_material_score": 0,
+              "environmental_score_shape_ratio": 1,
+              "material": "en:plastic",
+              "non_recyclable_and_non_biodegradable": "maybe",
+              "shape": "en:unknown"
+            }
+          ],
+          "score": 0,
+          "value": -10,
+          "warning": "unspecified_shape"
+        },
+        "production_system": {
+          "labels": [],
+          "value": 0,
+          "warning": "no_label"
+        },
+        "threatened_species": {
+          "ingredient": "en:palm-oil",
+          "value": -10
+        }
+      },
+      "agribalyse": {
+        "warning": "missing_agribalyse_match"
+      },
+      "grade": "unknown",
+      "missing": {
+        "agb_category": 1,
+        "labels": 1,
+        "origins": 1,
+        "packagings": 1
+      },
+      "missing_agribalyse_match_warning": 1,
+      "scores": {},
+      "status": "unknown"
+    },
+    "ecoscore_grade": "unknown",
+    "ecoscore_tags": [
+      "unknown"
+    ],
+    "editors_tags": [
+      "dollarbell",
+      "foodless",
+      "halal-app-chakib",
+      "inf",
+      "kiliweb",
+      "openfoodfacts-contributors",
+      "packbot",
+      "prepperapp",
+      "scanbot",
+      "teolemon",
+      "waistline-app",
+      "waistline.fb7e084e-6c16-4bb3-91c1-e077293a7cff",
+      "yuka.sY2b0xO6T85zoF3NwEKvlmNtc4bn-wreLAHUmhOF7IqgIZLRf958wJT1M6g"
+    ],
+    "entry_dates_tags": [
+      "2019-07-02",
+      "2019-07",
+      "2019"
+    ],
+    "food_groups_tags": [],
+    "id": "0096619663712",
+    "image_front_small_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.200.jpg",
+    "image_front_thumb_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.100.jpg",
+    "image_front_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.400.jpg",
+    "image_ingredients_small_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.200.jpg",
+    "image_ingredients_thumb_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.100.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.400.jpg",
+    "image_nutrition_small_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.200.jpg",
+    "image_nutrition_thumb_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.100.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.400.jpg",
+    "image_small_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.200.jpg",
+    "image_thumb_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.100.jpg",
+    "image_url": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 56
+          },
+          "400": {
+            "h": 400,
+            "w": 225
+          },
+          "full": {
+            "h": 4250,
+            "w": 2390
+          }
+        },
+        "uploaded_t": 1569801258,
+        "uploader": "openfoodfacts-contributors"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 62
+          },
+          "400": {
+            "h": 400,
+            "w": 248
+          },
+          "full": {
+            "h": 1631,
+            "w": 1011
+          }
+        },
+        "uploaded_t": 1608750589,
+        "uploader": "inf"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 55
+          },
+          "400": {
+            "h": 400,
+            "w": 222
+          },
+          "full": {
+            "h": 1200,
+            "w": 665
+          }
+        },
+        "uploaded_t": 1626296346,
+        "uploader": "kiliweb"
+      },
+      "5": {
+        "sizes": {
+          "100": {
+            "h": 62,
+            "w": 100
+          },
+          "400": {
+            "h": 249,
+            "w": 400
+          },
+          "full": {
+            "h": 405,
+            "w": 651
+          }
+        },
+        "uploaded_t": 1626296346,
+        "uploader": "kiliweb"
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4640,
+            "w": 3480
+          }
+        },
+        "uploaded_t": 1639165663,
+        "uploader": "waistline-app"
+      },
+      "front_en": {
+        "imgid": "6",
+        "rev": "20",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4640,
+            "w": 3480
+          }
+        }
+      },
+      "ingredients_en": {
+        "imgid": "2",
+        "rev": "9",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 62
+          },
+          "200": {
+            "h": 200,
+            "w": 124
+          },
+          "400": {
+            "h": 400,
+            "w": 248
+          },
+          "full": {
+            "h": 1631,
+            "w": 1011
+          }
+        }
+      },
+      "nutrition_en": {
+        "imgid": "5",
+        "rev": "17",
+        "sizes": {
+          "100": {
+            "h": 62,
+            "w": 100
+          },
+          "200": {
+            "h": 124,
+            "w": 200
+          },
+          "400": {
+            "h": 249,
+            "w": 400
+          },
+          "full": {
+            "h": 405,
+            "w": 651
+          }
+        }
+      }
+    },
+    "informers_tags": [
+      "waistline.fb7e084e-6c16-4bb3-91c1-e077293a7cff",
+      "openfoodfacts-contributors",
+      "halal-app-chakib",
+      "prepperapp",
+      "inf",
+      "dollarbell",
+      "kiliweb",
+      "waistline-app",
+      "teolemon"
+    ],
+    "ingredients": [
+      {
+        "id": "en:for-adults",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 51.1363636363636,
+        "percent_max": 100,
+        "percent_min": 2.27272727272727,
+        "text": "för adults"
+      },
+      {
+        "id": "en:chew-two",
+        "ingredients": [
+          {
+            "id": "en:2",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 24.4318181818182,
+            "percent_max": 50,
+            "percent_min": 0,
+            "text": "2"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 24.4318181818182,
+        "percent_max": 50,
+        "percent_min": 0,
+        "text": "chew two"
+      },
+      {
+        "id": "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+        "ingredients": [
+          {
+            "id": "en:400-mcg-folic-acid",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 12.2159090909091,
+            "percent_max": 33.3333333333333,
+            "percent_min": 0,
+            "text": "400 mcg folic acid"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 12.2159090909091,
+        "percent_max": 33.3333333333333,
+        "percent_min": 0,
+        "text": "gummies de se as a y supplen supplement facts s per container 80 ech serving contains % daily value each serving contains % daily vale folate 666 mcg dfe 1679"
+      },
+      {
+        "id": "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+        "ingredients": [
+          {
+            "id": "en:800-iu",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 6.10795454545455,
+            "percent_max": 25,
+            "percent_min": 0,
+            "text": "800 iu"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 6.10795454545455,
+        "percent_max": 25,
+        "percent_min": 0,
+        "text": "catries 15 carbohydrate 4 g te sugars 2 g 1%* *vitamin b-12 50 mcg 2.080% 1.000% 200% ncludes 2 g added sugars 4%* biotin 300 mcg enn a 750 mcg anin c 30 mg d 20 mcg"
+      },
+      {
+        "id": "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 3.05397727272727,
+        "percent_max": 20,
+        "percent_min": 0,
+        "text": "vanin e 6.75 mg acin 10 mg vanin b-6 4 mg 83% pantothenic acid 10 mg 33% chromium 120 mcg 100% molybdenum 37.5 mcg 45% lutein 278 mcg 343% 63% *percent daily values are based on a 235% 2‚000 calorie diet"
+      },
+      {
+        "id": "en:daily-value-not-established",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.52698863636364,
+        "percent_max": 16.6666666666667,
+        "percent_min": 0,
+        "text": "daily value not established"
+      },
+      {
+        "id": "en:ents",
+        "ingredients": [
+          {
+            "id": "en:com-syrup",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 0.76349431818182,
+            "percent_max": 14.2857142857143,
+            "percent_min": 0,
+            "text": "com syrup"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.76349431818182,
+        "percent_max": 14.2857142857143,
+        "percent_min": 0,
+        "text": "ents"
+      },
+      {
+        "ciqual_proxy_food_code": "31016",
+        "ecobalyse_code": "sugar",
+        "id": "en:sugar",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.381747159090907,
+        "percent_max": 12.5,
+        "percent_min": 0,
+        "text": "sugar",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "18066",
+        "ecobalyse_code": "tap-water",
+        "id": "en:water",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.190873579545453,
+        "percent_max": 11.1111111111111,
+        "percent_min": 0,
+        "text": "water",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:e428",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0954367897727266,
+        "percent_max": 10,
+        "percent_min": 0,
+        "text": "gelatin",
+        "vegan": "no",
+        "vegetarian": "no"
+      },
+      {
+        "id": "en:e300",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.0477183948863598,
+        "percent_max": 9.09090909090909,
+        "percent_min": 0,
+        "text": "ascorbic acid",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:d-calcium-pantothenate",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.0238591974431799,
+        "percent_max": 8.33333333333333,
+        "percent_min": 0,
+        "text": "d-calcium pantothenate"
+      },
+      {
+        "id": "en:cime-and-opheryl-acetate",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.0119295987215935,
+        "percent_max": 7.69230769230769,
+        "percent_min": 0,
+        "text": "cime and opheryl acetate"
+      },
+      {
+        "id": "en:natural-flavouring",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00596479936079675,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "natural flavors",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:maltodextrin",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00298239968039837,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "maltodextrin",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:retinyl-palmitate",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.00149119984020274,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "vitamin a palmitate",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:niacinamide-vegetable",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 0.00074559992010137,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "niacinamide vegetable"
+      },
+      {
+        "id": "en:fruit-juice",
+        "ingredients": [
+          {
+            "id": "en:colour",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 0.000372799960047132,
+            "percent_max": "5",
+            "percent_min": 0,
+            "text": "color"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.000372799960047132,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "fruit juice",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:e440a",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 0.000186399980023566,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "pectin",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:cyanocobalamin",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 9.3199990011783e-05,
+        "percent_max": "5",
+        "percent_min": 0,
+        "text": "cyanocobalamin"
+      },
+      {
+        "id": "en:pyridoxine-hya-molybdate",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 4.65999950023388e-05,
+        "percent_max": 4.76190476190476,
+        "percent_min": 0,
+        "text": "pyridoxine hya molybdate"
+      },
+      {
+        "from_palm_oil": "maybe",
+        "id": "en:vegetable-oil",
+        "ingredients": [
+          {
+            "ciqual_food_code": "16129",
+            "ecobalyse_code": "refined-palm-oil",
+            "from_palm_oil": "yes",
+            "id": "en:palm-oil",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.16499987505847e-05,
+            "percent_max": 4.54545454545455,
+            "percent_min": 0,
+            "text": "palm vegetable oil",
+            "vegan": "yes",
+            "vegetarian": "yes"
+          },
+          {
+            "id": "en:e903",
+            "is_in_taxonomy": 1,
+            "percent_estimate": 1.16499987505847e-05,
+            "percent_max": 2.27272727272727,
+            "percent_min": 0,
+            "text": "contains carnauba wax",
+            "vegan": "yes",
+            "vegetarian": "yes"
+          }
+        ],
+        "is_in_taxonomy": 1,
+        "percent_estimate": 2.32999975011694e-05,
+        "percent_max": 4.54545454545455,
+        "percent_min": 0,
+        "text": "vegetable oil",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:e161b",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.16499987541374e-05,
+        "percent_max": 4.34782608695652,
+        "percent_min": 0,
+        "text": "lutein",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:safloer",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 5.82499937706871e-06,
+        "percent_max": 4.16666666666667,
+        "percent_min": 0,
+        "text": "safloer"
+      },
+      {
+        "id": "en:poalinate",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 2.91249968853435e-06,
+        "percent_max": 4,
+        "percent_min": 0,
+        "text": "poalinate"
+      },
+      {
+        "id": "en:folic-acid",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 1.45624984781989e-06,
+        "percent_max": 3.84615384615385,
+        "percent_min": 0,
+        "text": "folic acid",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:d-biotin",
+        "is_in_taxonomy": 1,
+        "percent_estimate": 7.28124923909945e-07,
+        "percent_max": 3.7037037037037,
+        "percent_min": 0,
+        "text": "d-biotin",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:d-by",
+        "ingredients": [
+          {
+            "id": "en:costco-wholesale-corporation",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 3.64062458402259e-07,
+            "percent_max": 3.57142857142857,
+            "percent_min": 0,
+            "text": "costco wholesale corporation"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 3.64062458402259e-07,
+        "percent_max": 3.57142857142857,
+        "percent_min": 0,
+        "text": "d by"
+      },
+      {
+        "id": "en:p-o",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.82031229201129e-07,
+        "percent_max": 3.44827586206897,
+        "percent_min": 0,
+        "text": "p.o"
+      },
+      {
+        "id": "en:box-34535",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 9.10156146005647e-08,
+        "percent_max": 3.33333333333333,
+        "percent_min": 0,
+        "text": "box 34535"
+      },
+      {
+        "id": "en:seattle",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 4.55078037475687e-08,
+        "percent_max": 3.2258064516129,
+        "percent_min": 0,
+        "text": "seattle"
+      },
+      {
+        "id": "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 2.27539018737843e-08,
+        "percent_max": 3.125,
+        "percent_min": 0,
+        "text": "wa 98124-1535 usa com on not intended for use by pregnant and nursing women"
+      },
+      {
+        "id": "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.13769544896059e-08,
+        "percent_max": 3.03030303030303,
+        "percent_min": 0,
+        "text": "if you are taking any medications ay medical and surgical procedure"
+      },
+      {
+        "id": "en:have-any-medical-condition",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 5.68847724480293e-09,
+        "percent_max": 2.94117647058824,
+        "percent_min": 0,
+        "text": "have any medical condition"
+      },
+      {
+        "id": "en:and-are-planning-to-ay-clinical-lab-testing",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 2.84423862240146e-09,
+        "percent_max": 2.85714285714286,
+        "percent_min": 0,
+        "text": "and are planning to ay clinical lab testing"
+      },
+      {
+        "id": "en:consult-your-doctor-before-use",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.42212286391441e-09,
+        "percent_max": 2.77777777777778,
+        "percent_min": 0,
+        "text": "consult your doctor before use"
+      },
+      {
+        "id": "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 7.11061431957205e-10,
+        "percent_max": 2.77777777777778,
+        "percent_min": 0,
+        "text": "some supplements may was medications and interfere with certain lab tests"
+      },
+      {
+        "id": "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 3.55527163264924e-10,
+        "percent_max": 2.63157894736842,
+        "percent_min": 0,
+        "text": "discontinue use and consut any adverse reactions occur"
+      },
+      {
+        "id": "en:the-reach-of-children",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.77763581632462e-10,
+        "percent_max": 2.63157894736842,
+        "percent_min": 0,
+        "text": "the reach of children"
+      },
+      {
+        "id": "en:temperature",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 8.88817908162309e-11,
+        "percent_max": 2.5,
+        "percent_min": 0,
+        "text": "temperature"
+      },
+      {
+        "id": "en:tightly-closed",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 4.44373426944367e-11,
+        "percent_max": 2.5,
+        "percent_min": 0,
+        "text": "tightly closed"
+      },
+      {
+        "id": "en:dcve-heat",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 2.22186713472183e-11,
+        "percent_max": 2.38095238095238,
+        "percent_min": 0,
+        "text": "dcve heat"
+      },
+      {
+        "id": "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.1112888387288e-11,
+        "percent_max": 2.38095238095238,
+        "percent_min": 0,
+        "text": "es are based on the new reference ro) published by the fda in may 2016"
+      },
+      {
+        "id": "en:vitamin-infoline-1-800-433-1213-important",
+        "ingredients": [
+          {
+            "id": "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine",
+            "is_in_taxonomy": 0,
+            "percent_estimate": 1.1112888387288e-11,
+            "percent_max": 2.27272727272727,
+            "percent_min": 0,
+            "text": "tamper-evident seal under chr do not use if printed seal is broken and mssine"
+          }
+        ],
+        "is_in_taxonomy": 0,
+        "percent_estimate": 1.1112888387288e-11,
+        "percent_max": 2.27272727272727,
+        "percent_min": 0,
+        "text": "vitamin infoline 1-800-433-1213 important"
+      }
+    ],
+    "ingredients_analysis": {
+      "en:non-vegan": [
+        "en:e428"
+      ],
+      "en:non-vegetarian": [
+        "en:e428"
+      ],
+      "en:palm-oil": [
+        "en:palm-oil"
+      ],
+      "en:vegan-status-unknown": [
+        "en:for-adults",
+        "en:chew-two",
+        "en:2",
+        "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+        "en:400-mcg-folic-acid",
+        "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+        "en:800-iu",
+        "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+        "en:daily-value-not-established",
+        "en:ents",
+        "en:com-syrup",
+        "en:d-calcium-pantothenate",
+        "en:cime-and-opheryl-acetate",
+        "en:niacinamide-vegetable",
+        "en:cyanocobalamin",
+        "en:pyridoxine-hya-molybdate",
+        "en:safloer",
+        "en:poalinate",
+        "en:d-by",
+        "en:costco-wholesale-corporation",
+        "en:p-o",
+        "en:box-34535",
+        "en:seattle",
+        "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+        "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+        "en:have-any-medical-condition",
+        "en:and-are-planning-to-ay-clinical-lab-testing",
+        "en:consult-your-doctor-before-use",
+        "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+        "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+        "en:the-reach-of-children",
+        "en:temperature",
+        "en:tightly-closed",
+        "en:dcve-heat",
+        "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+        "en:vitamin-infoline-1-800-433-1213-important",
+        "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine"
+      ],
+      "en:vegetarian-status-unknown": [
+        "en:for-adults",
+        "en:chew-two",
+        "en:2",
+        "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+        "en:400-mcg-folic-acid",
+        "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+        "en:800-iu",
+        "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+        "en:daily-value-not-established",
+        "en:ents",
+        "en:com-syrup",
+        "en:d-calcium-pantothenate",
+        "en:cime-and-opheryl-acetate",
+        "en:niacinamide-vegetable",
+        "en:cyanocobalamin",
+        "en:pyridoxine-hya-molybdate",
+        "en:safloer",
+        "en:poalinate",
+        "en:d-by",
+        "en:costco-wholesale-corporation",
+        "en:p-o",
+        "en:box-34535",
+        "en:seattle",
+        "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+        "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+        "en:have-any-medical-condition",
+        "en:and-are-planning-to-ay-clinical-lab-testing",
+        "en:consult-your-doctor-before-use",
+        "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+        "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+        "en:the-reach-of-children",
+        "en:temperature",
+        "en:tightly-closed",
+        "en:dcve-heat",
+        "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+        "en:vitamin-infoline-1-800-433-1213-important",
+        "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine"
+      ]
+    },
+    "ingredients_analysis_tags": [
+      "en:palm-oil",
+      "en:non-vegan",
+      "en:non-vegetarian"
+    ],
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_tags": [],
+    "ingredients_hierarchy": [
+      "en:for-adults",
+      "en:chew-two",
+      "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+      "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+      "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+      "en:daily-value-not-established",
+      "en:ents",
+      "en:sugar",
+      "en:added-sugar",
+      "en:disaccharide",
+      "en:water",
+      "en:e428",
+      "en:e300",
+      "en:d-calcium-pantothenate",
+      "en:cime-and-opheryl-acetate",
+      "en:natural-flavouring",
+      "en:flavouring",
+      "en:maltodextrin",
+      "en:retinyl-palmitate",
+      "en:vitamins",
+      "en:vitamin-a",
+      "en:niacinamide-vegetable",
+      "en:fruit-juice",
+      "en:fruit",
+      "en:juice",
+      "en:e440a",
+      "en:cyanocobalamin",
+      "en:vitamin-b12",
+      "en:pyridoxine-hya-molybdate",
+      "en:vegetable-oil",
+      "en:oil-and-fat",
+      "en:vegetable-oil-and-fat",
+      "en:e161b",
+      "en:safloer",
+      "en:poalinate",
+      "en:folic-acid",
+      "en:folate",
+      "en:d-biotin",
+      "en:biotin",
+      "en:d-by",
+      "en:p-o",
+      "en:box-34535",
+      "en:seattle",
+      "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+      "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+      "en:have-any-medical-condition",
+      "en:and-are-planning-to-ay-clinical-lab-testing",
+      "en:consult-your-doctor-before-use",
+      "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+      "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+      "en:the-reach-of-children",
+      "en:temperature",
+      "en:tightly-closed",
+      "en:dcve-heat",
+      "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+      "en:vitamin-infoline-1-800-433-1213-important",
+      "en:2",
+      "en:400-mcg-folic-acid",
+      "en:800-iu",
+      "en:com-syrup",
+      "en:colour",
+      "en:palm-oil",
+      "en:palm-oil-and-fat",
+      "en:e903",
+      "en:costco-wholesale-corporation",
+      "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine"
+    ],
+    "ingredients_lc": "en",
+    "ingredients_n": 53,
+    "ingredients_n_tags": [
+      "53",
+      "51-60"
+    ],
+    "ingredients_non_nutritive_sweeteners_n": 0,
+    "ingredients_original_tags": [
+      "en:for-adults",
+      "en:chew-two",
+      "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+      "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+      "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+      "en:daily-value-not-established",
+      "en:ents",
+      "en:sugar",
+      "en:water",
+      "en:e428",
+      "en:e300",
+      "en:d-calcium-pantothenate",
+      "en:cime-and-opheryl-acetate",
+      "en:natural-flavouring",
+      "en:maltodextrin",
+      "en:retinyl-palmitate",
+      "en:niacinamide-vegetable",
+      "en:fruit-juice",
+      "en:e440a",
+      "en:cyanocobalamin",
+      "en:pyridoxine-hya-molybdate",
+      "en:vegetable-oil",
+      "en:e161b",
+      "en:safloer",
+      "en:poalinate",
+      "en:folic-acid",
+      "en:d-biotin",
+      "en:d-by",
+      "en:p-o",
+      "en:box-34535",
+      "en:seattle",
+      "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+      "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+      "en:have-any-medical-condition",
+      "en:and-are-planning-to-ay-clinical-lab-testing",
+      "en:consult-your-doctor-before-use",
+      "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+      "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+      "en:the-reach-of-children",
+      "en:temperature",
+      "en:tightly-closed",
+      "en:dcve-heat",
+      "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+      "en:vitamin-infoline-1-800-433-1213-important",
+      "en:2",
+      "en:400-mcg-folic-acid",
+      "en:800-iu",
+      "en:com-syrup",
+      "en:colour",
+      "en:palm-oil",
+      "en:e903",
+      "en:costco-wholesale-corporation",
+      "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine"
+    ],
+    "ingredients_percent_analysis": 1,
+    "ingredients_sweeteners_n": 0,
+    "ingredients_tags": [
+      "en:for-adults",
+      "en:chew-two",
+      "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+      "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+      "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+      "en:daily-value-not-established",
+      "en:ents",
+      "en:sugar",
+      "en:added-sugar",
+      "en:disaccharide",
+      "en:water",
+      "en:e428",
+      "en:e300",
+      "en:d-calcium-pantothenate",
+      "en:cime-and-opheryl-acetate",
+      "en:natural-flavouring",
+      "en:flavouring",
+      "en:maltodextrin",
+      "en:retinyl-palmitate",
+      "en:vitamins",
+      "en:vitamin-a",
+      "en:niacinamide-vegetable",
+      "en:fruit-juice",
+      "en:fruit",
+      "en:juice",
+      "en:e440a",
+      "en:cyanocobalamin",
+      "en:vitamin-b12",
+      "en:pyridoxine-hya-molybdate",
+      "en:vegetable-oil",
+      "en:oil-and-fat",
+      "en:vegetable-oil-and-fat",
+      "en:e161b",
+      "en:safloer",
+      "en:poalinate",
+      "en:folic-acid",
+      "en:folate",
+      "en:d-biotin",
+      "en:biotin",
+      "en:d-by",
+      "en:p-o",
+      "en:box-34535",
+      "en:seattle",
+      "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women",
+      "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+      "en:have-any-medical-condition",
+      "en:and-are-planning-to-ay-clinical-lab-testing",
+      "en:consult-your-doctor-before-use",
+      "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+      "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+      "en:the-reach-of-children",
+      "en:temperature",
+      "en:tightly-closed",
+      "en:dcve-heat",
+      "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+      "en:vitamin-infoline-1-800-433-1213-important",
+      "en:2",
+      "en:400-mcg-folic-acid",
+      "en:800-iu",
+      "en:com-syrup",
+      "en:colour",
+      "en:palm-oil",
+      "en:palm-oil-and-fat",
+      "en:e903",
+      "en:costco-wholesale-corporation",
+      "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine"
+    ],
+    "ingredients_text": "för adults, chew two (2) gummies de se as a y supplen supplement facts s per container 80 ech serving contains % daily value each serving contains % daily vale folate 666 mcg dfe 1679 (400 mcg folic acid) catries 15 carbohydrate 4 g te sugars 2 g 1%* *vitamin b-12 50 mcg 2,080% 1,000% 200% ncludes 2 g added sugars 4%* biotin 300 mcg enn a 750 mcg anin c 30 mg d 20 mcg (800 iu) vanin e 6.75 mg acin 10 mg vanin b-6 4 mg 83% pantothenic acid 10 mg 33% chromium 120 mcg 100% molybdenum 37.5 mcg 45% lutein 278 mcg 343% 63% *percent daily values are based on a 235% 2,000 calorie diet. **daily value not established. ents: com syrup, sugar, water, gelatin, ascorbic acid, d-calcium pantothenate, cime and opheryl acetate, natural flavors, maltodextrin, vitamin a palmitate, niacinamide vegetable and fruit juice (color), pectin, cyanocobalamin, pyridoxine hya molybdate, vegetable oil (palm) (contains carnauba wax), lutein, safloer . poalinate, folic acid, d-biotin. d by: costco wholesale corporation, p.o. box 34535, seattle, wa 98124-1535 usa com on not intended for use by pregnant or nursing women. if you are taking any medications ay medical or surgical procedure, have any medical condition, or are planning to ay clinical lab testing, consult your doctor before use. some supplements may was medications and/or interfere with certain lab tests. discontinue use and consut any adverse reactions occur. the reach of children. temperature, tightly closed. dcve heat. es are based on the new reference ro) published by the fda in may 2016. vitamin infoline 1-800-433-1213 important: tamper-evident seal under chr do not use if printed seal is broken or mssine",
+    "ingredients_text_en": "för adults, chew two (2) gummies de se as a y supplen supplement facts s per container 80 ech serving contains % daily value each serving contains % daily vale folate 666 mcg dfe 1679 (400 mcg folic acid) catries 15 carbohydrate 4 g te sugars 2 g 1%* *vitamin b-12 50 mcg 2,080% 1,000% 200% ncludes 2 g added sugars 4%* biotin 300 mcg enn a 750 mcg anin c 30 mg d 20 mcg (800 iu) vanin e 6.75 mg acin 10 mg vanin b-6 4 mg 83% pantothenic acid 10 mg 33% chromium 120 mcg 100% molybdenum 37.5 mcg 45% lutein 278 mcg 343% 63% *percent daily values are based on a 235% 2,000 calorie diet. **daily value not established. ents: com syrup, sugar, water, gelatin, ascorbic acid, d-calcium pantothenate, cime and opheryl acetate, natural flavors, maltodextrin, vitamin a palmitate, niacinamide vegetable and fruit juice (color), pectin, cyanocobalamin, pyridoxine hya molybdate, vegetable oil (palm) (contains carnauba wax), lutein, safloer . poalinate, folic acid, d-biotin. d by: costco wholesale corporation, p.o. box 34535, seattle, wa 98124-1535 usa com on not intended for use by pregnant or nursing women. if you are taking any medications ay medical or surgical procedure, have any medical condition, or are planning to ay clinical lab testing, consult your doctor before use. some supplements may was medications and/or interfere with certain lab tests. discontinue use and consut any adverse reactions occur. the reach of children. temperature, tightly closed. dcve heat. es are based on the new reference ro) published by the fda in may 2016. vitamin infoline 1-800-433-1213 important: tamper-evident seal under chr do not use if printed seal is broken or mssine",
+    "ingredients_text_with_allergens": "för adults, chew two (2) gummies de se as a y supplen supplement facts s per container 80 ech serving contains % daily value each serving contains % daily vale folate 666 mcg dfe 1679 (400 mcg folic acid) catries 15 carbohydrate 4 g te sugars 2 g 1%* *vitamin b-12 50 mcg 2,080% 1,000% 200% ncludes 2 g added sugars 4%* biotin 300 mcg enn a 750 mcg anin c 30 mg d 20 mcg (800 iu) vanin e 6.75 mg acin 10 mg vanin b-6 4 mg 83% pantothenic acid 10 mg 33% chromium 120 mcg 100% molybdenum 37.5 mcg 45% lutein 278 mcg 343% 63% *percent daily values are based on a 235% 2,000 calorie diet. **daily value not established. ents: com syrup, sugar, water, <span class=\"allergen\">gelatin</span>, ascorbic acid, d-calcium pantothenate, cime and opheryl acetate, natural flavors, maltodextrin, vitamin a palmitate, niacinamide vegetable and fruit juice (color), pectin, cyanocobalamin, pyridoxine hya molybdate, vegetable oil (palm) (contains carnauba wax), lutein, safloer . poalinate, folic acid, d-biotin. d by: costco wholesale corporation, p.o. box 34535, seattle, wa 98124-1535 usa com on not intended for use by pregnant or nursing women. if you are taking any medications ay medical or surgical procedure, have any medical condition, or are planning to ay clinical lab testing, consult your doctor before use. some supplements may was medications and/or interfere with certain lab tests. discontinue use and consut any adverse reactions occur. the reach of children. temperature, tightly closed. dcve heat. es are based on the new reference ro) published by the fda in may 2016. vitamin infoline 1-800-433-1213 important: tamper-evident seal under chr do not use if printed seal is broken or mssine",
+    "ingredients_text_with_allergens_en": "för adults, chew two (2) gummies de se as a y supplen supplement facts s per container 80 ech serving contains % daily value each serving contains % daily vale folate 666 mcg dfe 1679 (400 mcg folic acid) catries 15 carbohydrate 4 g te sugars 2 g 1%* *vitamin b-12 50 mcg 2,080% 1,000% 200% ncludes 2 g added sugars 4%* biotin 300 mcg enn a 750 mcg anin c 30 mg d 20 mcg (800 iu) vanin e 6.75 mg acin 10 mg vanin b-6 4 mg 83% pantothenic acid 10 mg 33% chromium 120 mcg 100% molybdenum 37.5 mcg 45% lutein 278 mcg 343% 63% *percent daily values are based on a 235% 2,000 calorie diet. **daily value not established. ents: com syrup, sugar, water, <span class=\"allergen\">gelatin</span>, ascorbic acid, d-calcium pantothenate, cime and opheryl acetate, natural flavors, maltodextrin, vitamin a palmitate, niacinamide vegetable and fruit juice (color), pectin, cyanocobalamin, pyridoxine hya molybdate, vegetable oil (palm) (contains carnauba wax), lutein, safloer . poalinate, folic acid, d-biotin. d by: costco wholesale corporation, p.o. box 34535, seattle, wa 98124-1535 usa com on not intended for use by pregnant or nursing women. if you are taking any medications ay medical or surgical procedure, have any medical condition, or are planning to ay clinical lab testing, consult your doctor before use. some supplements may was medications and/or interfere with certain lab tests. discontinue use and consut any adverse reactions occur. the reach of children. temperature, tightly closed. dcve heat. es are based on the new reference ro) published by the fda in may 2016. vitamin infoline 1-800-433-1213 important: tamper-evident seal under chr do not use if printed seal is broken or mssine",
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "ingredients_with_specified_percent_n": 0,
+    "ingredients_with_specified_percent_sum": 0,
+    "ingredients_with_unspecified_percent_n": 45,
+    "ingredients_with_unspecified_percent_sum": 100,
+    "ingredients_without_ciqual_codes": [
+      "en:2",
+      "en:400-mcg-folic-acid",
+      "en:800-iu",
+      "en:and-are-planning-to-ay-clinical-lab-testing",
+      "en:box-34535",
+      "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+      "en:chew-two",
+      "en:cime-and-opheryl-acetate",
+      "en:colour",
+      "en:com-syrup",
+      "en:consult-your-doctor-before-use",
+      "en:costco-wholesale-corporation",
+      "en:cyanocobalamin",
+      "en:d-biotin",
+      "en:d-by",
+      "en:d-calcium-pantothenate",
+      "en:daily-value-not-established",
+      "en:dcve-heat",
+      "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+      "en:e161b",
+      "en:e300",
+      "en:e428",
+      "en:e440a",
+      "en:e903",
+      "en:ents",
+      "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+      "en:folic-acid",
+      "en:for-adults",
+      "en:fruit-juice",
+      "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+      "en:have-any-medical-condition",
+      "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+      "en:maltodextrin",
+      "en:natural-flavouring",
+      "en:niacinamide-vegetable",
+      "en:p-o",
+      "en:poalinate",
+      "en:pyridoxine-hya-molybdate",
+      "en:retinyl-palmitate",
+      "en:safloer",
+      "en:seattle",
+      "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+      "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine",
+      "en:temperature",
+      "en:the-reach-of-children",
+      "en:tightly-closed",
+      "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+      "en:vegetable-oil",
+      "en:vitamin-infoline-1-800-433-1213-important",
+      "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women"
+    ],
+    "ingredients_without_ciqual_codes_n": 50,
+    "ingredients_without_ecobalyse_ids": [
+      "en:2",
+      "en:400-mcg-folic-acid",
+      "en:800-iu",
+      "en:and-are-planning-to-ay-clinical-lab-testing",
+      "en:box-34535",
+      "en:catries-15-carbohydrate-4-g-te-sugars-2-g-1-vitamin-b-12-50-mcg-2-08-1-200-ncludes-2-g-added-sugars-4-biotin-300-mcg-enn-a-750-mcg-anin-c-30-mg-d-20-mcg",
+      "en:chew-two",
+      "en:cime-and-opheryl-acetate",
+      "en:colour",
+      "en:com-syrup",
+      "en:consult-your-doctor-before-use",
+      "en:costco-wholesale-corporation",
+      "en:cyanocobalamin",
+      "en:d-biotin",
+      "en:d-by",
+      "en:d-calcium-pantothenate",
+      "en:daily-value-not-established",
+      "en:dcve-heat",
+      "en:discontinue-use-and-consut-any-adverse-reactions-occur",
+      "en:e161b",
+      "en:e300",
+      "en:e428",
+      "en:e440a",
+      "en:e903",
+      "en:ents",
+      "en:es-are-based-on-the-new-reference-ro-published-by-the-fda-in-may-2016",
+      "en:folic-acid",
+      "en:for-adults",
+      "en:fruit-juice",
+      "en:gummies-de-se-as-a-y-supplen-supplement-facts-s-per-container-80-ech-serving-contains-daily-value-each-serving-contains-daily-vale-folate-666-mcg-dfe-1679",
+      "en:have-any-medical-condition",
+      "en:if-you-are-taking-any-medications-ay-medical-and-surgical-procedure",
+      "en:maltodextrin",
+      "en:natural-flavouring",
+      "en:niacinamide-vegetable",
+      "en:p-o",
+      "en:poalinate",
+      "en:pyridoxine-hya-molybdate",
+      "en:retinyl-palmitate",
+      "en:safloer",
+      "en:seattle",
+      "en:some-supplements-may-was-medications-and-interfere-with-certain-lab-tests",
+      "en:tamper-evident-seal-under-chr-do-not-use-if-printed-seal-is-broken-and-mssine",
+      "en:temperature",
+      "en:the-reach-of-children",
+      "en:tightly-closed",
+      "en:vanin-e-6-75-mg-acin-10-mg-vanin-b-6-4-mg-83-pantothenic-acid-10-mg-33-chromium-120-mcg-100-molybdenum-37-5-mcg-45-lutein-278-mcg-343-63-percent-daily-values-are-based-on-a-235-2-000-calorie-diet",
+      "en:vegetable-oil",
+      "en:vitamin-infoline-1-800-433-1213-important",
+      "en:wa-98124-1535-usa-com-on-not-intended-for-use-by-pregnant-and-nursing-women"
+    ],
+    "ingredients_without_ecobalyse_ids_n": 50,
+    "interface_version_created": "20150316.jqm2",
+    "interface_version_modified": "20150316.jqm2",
+    "known_ingredients_n": 30,
+    "labels": "Dietary supplement",
+    "labels_hierarchy": [
+      "en:Dietary supplement"
+    ],
+    "labels_lc": "en",
+    "labels_old": "Dietary supplement",
+    "labels_tags": [
+      "en:dietary-supplement"
+    ],
+    "lang": "en",
+    "languages": {
+      "en:english": 5,
+      "en:german": 1
+    },
+    "languages_codes": {
+      "de": 1,
+      "en": 5
+    },
+    "languages_hierarchy": [
+      "en:english",
+      "en:german"
+    ],
+    "languages_tags": [
+      "en:english",
+      "en:german",
+      "en:2",
+      "en:multilingual"
+    ],
+    "last_edit_dates_tags": [
+      "2025-02-04",
+      "2025-02",
+      "2025"
+    ],
+    "last_editor": "scanbot",
+    "last_image_dates_tags": [
+      "2021-12-10",
+      "2021-12",
+      "2021"
+    ],
+    "last_image_t": 1639165665,
+    "last_modified_by": "scanbot",
+    "last_modified_t": 1738676364,
+    "last_updated_t": 1738678845,
+    "lc": "en",
+    "main_countries_tags": [],
+    "max_imgid": "6",
+    "minerals_tags": [],
+    "misc_tags": [
+      "en:environmental-score-not-computed",
+      "en:nutriscore-missing-nutrition-data",
+      "en:nutriscore-missing-nutrition-data-energy",
+      "en:nutriscore-missing-nutrition-data-fat",
+      "en:nutriscore-missing-nutrition-data-proteins",
+      "en:nutriscore-missing-nutrition-data-saturated-fat",
+      "en:nutriscore-missing-nutrition-data-sodium",
+      "en:nutriscore-missing-nutrition-data-sugars",
+      "en:nutriscore-not-applicable",
+      "en:nutriscore-not-computed",
+      "en:nutrition-fruits-vegetables-legumes-estimate-from-ingredients",
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-no-fiber",
+      "en:nutrition-no-fiber-or-fruits-vegetables-nuts",
+      "en:nutrition-not-enough-data-to-compute-nutrition-score",
+      "en:packagings-not-complete",
+      "en:packagings-not-empty",
+      "en:packagings-not-empty-but-not-complete",
+      "en:packagings-number-of-components-1",
+      "en:main-countries-no-scans"
+    ],
+    "no_nutrition_data": "off",
+    "nova_group": 4,
+    "nova_group_debug": "",
+    "nova_groups": "4",
+    "nova_groups_markers": {
+      "3": [
+        [
+          "ingredients",
+          "en:sugar"
+        ],
+        [
+          "ingredients",
+          "en:vegetable-oil"
+        ]
+      ],
+      "4": [
+        [
+          "additives",
+          "en:e161b"
+        ],
+        [
+          "additives",
+          "en:e428"
+        ],
+        [
+          "additives",
+          "en:e440"
+        ],
+        [
+          "additives",
+          "en:e903"
+        ],
+        [
+          "ingredients",
+          "en:colour"
+        ],
+        [
+          "ingredients",
+          "en:flavouring"
+        ],
+        [
+          "ingredients",
+          "en:maltodextrin"
+        ]
+      ]
+    },
+    "nova_groups_tags": [
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "nucleotides_tags": [],
+    "nutrient_levels": {},
+    "nutrient_levels_tags": [],
+    "nutriments": {
+      "carbohydrates": 4,
+      "carbohydrates_serving": 4,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 4,
+      "energy": 63,
+      "energy-kcal": 15,
+      "energy-kcal_serving": 15,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 15,
+      "energy-kcal_value_computed": 16,
+      "energy-kj": 63,
+      "energy-kj_serving": 63,
+      "energy-kj_unit": "kJ",
+      "energy-kj_value": 63,
+      "energy-kj_value_computed": 68,
+      "energy_serving": 63,
+      "energy_unit": "kJ",
+      "energy_value": 63,
+      "fat": 0,
+      "fat_serving": 0,
+      "fat_unit": "g",
+      "fat_value": 0,
+      "fiber": 0,
+      "fiber_serving": 0,
+      "fiber_unit": "g",
+      "fiber_value": 0,
+      "fruits-vegetables-legumes-estimate-from-ingredients_100g": 0.000372799960047132,
+      "fruits-vegetables-legumes-estimate-from-ingredients_serving": 0.000372799960047132,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0.000372799960047132,
+      "fruits-vegetables-nuts-estimate-from-ingredients_serving": 0.000372799960047132,
+      "nova-group": 4,
+      "nova-group_100g": 4,
+      "nova-group_serving": 4,
+      "proteins": 0,
+      "proteins_serving": 0,
+      "proteins_unit": "g",
+      "proteins_value": 0,
+      "salt": 0,
+      "salt_serving": 0,
+      "salt_unit": "g",
+      "salt_value": 0,
+      "saturated-fat": 0,
+      "saturated-fat_serving": 0,
+      "saturated-fat_unit": "g",
+      "saturated-fat_value": 0,
+      "sodium": 0,
+      "sodium_serving": 0,
+      "sodium_unit": "g",
+      "sodium_value": 0,
+      "sugars": 2,
+      "sugars_serving": 2,
+      "sugars_unit": "g",
+      "sugars_value": 2
+    },
+    "nutriscore": {
+      "2021": {
+        "category_available": 1,
+        "data": {
+          "energy": null,
+          "fiber": 0,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils": 0.000372799960047132,
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat": 0,
+          "is_water": 0,
+          "proteins": null,
+          "saturated_fat": null,
+          "sodium": null,
+          "sugars": null
+        },
+        "grade": "not-applicable",
+        "not_applicable_category": "en:dietary-supplements",
+        "nutrients_available": 0,
+        "nutriscore_applicable": 0,
+        "nutriscore_computed": 0
+      },
+      "2023": {
+        "category_available": 1,
+        "data": {
+          "energy": null,
+          "fiber": null,
+          "fruits_vegetables_legumes": 0,
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat_oil_nuts_seeds": 0,
+          "is_red_meat_product": 0,
+          "is_water": 0,
+          "proteins": null,
+          "salt": null,
+          "saturated_fat": null,
+          "sugars": null
+        },
+        "grade": "not-applicable",
+        "not_applicable_category": "en:dietary-supplements",
+        "nutrients_available": 0,
+        "nutriscore_applicable": 0,
+        "nutriscore_computed": 0
+      }
+    },
+    "nutriscore_2021_tags": [
+      "not-applicable"
+    ],
+    "nutriscore_2023_tags": [
+      "not-applicable"
+    ],
+    "nutriscore_data": {
+      "nutriscore_not_applicable_for_category": "en:dietary-supplements"
+    },
+    "nutriscore_grade": "not-applicable",
+    "nutriscore_tags": [
+      "not-applicable"
+    ],
+    "nutriscore_version": "2023",
+    "nutrition_data": "on",
+    "nutrition_data_per": "serving",
+    "nutrition_data_prepared_per": "100g",
+    "nutrition_grade_fr": "not-applicable",
+    "nutrition_grades": "not-applicable",
+    "nutrition_grades_tags": [
+      "not-applicable"
+    ],
+    "nutrition_score_beverage": 0,
+    "nutrition_score_debug": "no nutriscore for category en:dietary-supplements - missing energy_100g - missing fat_100g - missing saturated-fat_100g - missing sugars_100g - missing sodium_100g - missing proteins_100g",
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients_value": 0.000372799960047132,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0.000372799960047132,
+    "nutrition_score_warning_no_fiber": 1,
+    "origins": "",
+    "origins_hierarchy": [],
+    "origins_lc": "en",
+    "origins_tags": [],
+    "other_nutritional_substances_tags": [],
+    "packaging": "Plastic",
+    "packaging_hierarchy": [
+      "en:plastic"
+    ],
+    "packaging_lc": "en",
+    "packaging_materials_tags": [
+      "en:plastic"
+    ],
+    "packaging_old": "Plastic",
+    "packaging_old_before_taxonomization": "plastic",
+    "packaging_recycling_tags": [],
+    "packaging_shapes_tags": [],
+    "packaging_tags": [
+      "en:plastic"
+    ],
+    "packagings": [
+      {
+        "material": "en:plastic"
+      }
+    ],
+    "packagings_materials": {
+      "all": {},
+      "en:plastic": {}
+    },
+    "packagings_n": 1,
+    "photographers_tags": [
+      "openfoodfacts-contributors",
+      "inf",
+      "kiliweb",
+      "waistline-app"
+    ],
+    "pnns_groups_1": "unknown",
+    "pnns_groups_1_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "pnns_groups_2": "unknown",
+    "pnns_groups_2_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "popularity_key": 23950000015,
+    "popularity_tags": [
+      "bottom-25-percent-scans-2019",
+      "bottom-20-percent-scans-2019",
+      "top-85-percent-scans-2019",
+      "top-90-percent-scans-2019",
+      "top-5000-us-scans-2019",
+      "top-10000-us-scans-2019",
+      "top-50000-us-scans-2019",
+      "top-100000-us-scans-2019",
+      "top-country-us-scans-2019",
+      "top-75-percent-scans-2021",
+      "top-80-percent-scans-2021",
+      "top-85-percent-scans-2021",
+      "top-90-percent-scans-2021",
+      "top-5000-us-scans-2021",
+      "top-10000-us-scans-2021",
+      "top-50000-us-scans-2021",
+      "top-100000-us-scans-2021",
+      "top-country-us-scans-2021",
+      "top-5000-sa-scans-2021",
+      "top-10000-sa-scans-2021",
+      "top-50000-sa-scans-2021",
+      "top-100000-sa-scans-2021",
+      "bottom-25-percent-scans-2022",
+      "bottom-20-percent-scans-2022",
+      "bottom-15-percent-scans-2022",
+      "top-90-percent-scans-2022",
+      "top-10000-us-scans-2022",
+      "top-50000-us-scans-2022",
+      "top-100000-us-scans-2022",
+      "top-country-us-scans-2022",
+      "top-100000-scans-2023",
+      "at-least-5-scans-2023",
+      "top-75-percent-scans-2023",
+      "top-80-percent-scans-2023",
+      "top-85-percent-scans-2023",
+      "top-90-percent-scans-2023",
+      "top-5000-us-scans-2023",
+      "top-10000-us-scans-2023",
+      "top-50000-us-scans-2023",
+      "top-100000-us-scans-2023",
+      "top-country-us-scans-2023",
+      "top-50000-ro-scans-2023",
+      "top-100000-ro-scans-2023",
+      "top-100-bb-scans-2023",
+      "top-500-bb-scans-2023",
+      "top-1000-bb-scans-2023",
+      "top-5000-bb-scans-2023",
+      "top-10000-bb-scans-2023",
+      "top-50000-bb-scans-2023",
+      "top-100000-bb-scans-2023",
+      "top-50000-scans-2024",
+      "top-100000-scans-2024",
+      "at-least-5-scans-2024",
+      "at-least-10-scans-2024",
+      "top-75-percent-scans-2024",
+      "top-80-percent-scans-2024",
+      "top-85-percent-scans-2024",
+      "top-90-percent-scans-2024",
+      "top-1000-us-scans-2024",
+      "top-5000-us-scans-2024",
+      "top-10000-us-scans-2024",
+      "top-50000-us-scans-2024",
+      "top-100000-us-scans-2024",
+      "top-country-us-scans-2024",
+      "at-least-5-us-scans-2024",
+      "at-least-10-us-scans-2024",
+      "top-5000-mx-scans-2024",
+      "top-10000-mx-scans-2024",
+      "top-50000-mx-scans-2024",
+      "top-100000-mx-scans-2024",
+      "top-500-pr-scans-2024",
+      "top-1000-pr-scans-2024",
+      "top-5000-pr-scans-2024",
+      "top-10000-pr-scans-2024",
+      "top-50000-pr-scans-2024",
+      "top-100000-pr-scans-2024"
+    ],
+    "product_name": "Adult Multivitamin Gummies",
+    "product_name_de": "Adult Multivitamin Gummies",
+    "product_name_en": "Adult Multivitamin Gummies",
+    "product_quantity": "0",
+    "product_type": "food",
+    "quantity": "1pcs",
+    "removed_countries_tags": [],
+    "rev": 24,
+    "scans_n": 25,
+    "schema_version": 998,
+    "selected_images": {
+      "front": {
+        "display": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/front_en.20.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/ingredients_en.9.100.jpg"
+        }
+      },
+      "nutrition": {
+        "display": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.400.jpg"
+        },
+        "small": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.200.jpg"
+        },
+        "thumb": {
+          "en": "https://images.openfoodfacts.net/images/products/009/661/966/3712/nutrition_en.17.100.jpg"
+        }
+      }
+    },
+    "serving_quantity": "2",
+    "serving_quantity_unit": "g",
+    "serving_size": "2g",
+    "sortkey": 1608750609,
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "stores": "CostCo",
+    "stores_tags": [
+      "costco"
+    ],
+    "teams": "chocolatine,la-robe-est-bleue",
+    "teams_tags": [
+      "chocolatine",
+      "la-robe-est-bleue"
+    ],
+    "traces": "",
+    "traces_from_ingredients": "",
+    "traces_from_user": "(en) ",
+    "traces_hierarchy": [],
+    "traces_tags": [],
+    "unique_scans_n": 15,
+    "unknown_ingredients_n": 36,
+    "unknown_nutrients_tags": [],
+    "update_key": "sort",
+    "vitamins_tags": [
+      "en:l-ascorbic-acid",
+      "en:retinyl-palmitate",
+      "en:cyanocobalamin",
+      "en:folic-acid",
+      "en:d-biotin"
+    ],
+    "weighers_tags": []
+  },
+  "status": 1,
+  "status_verbose": "product found"
+}

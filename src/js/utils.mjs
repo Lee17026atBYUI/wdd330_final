@@ -9,6 +9,7 @@ export function qs(selector, parent = document) {
 export function getLocalStorage(key) {
   return JSON.parse(localStorage.getItem(key));
 }
+
 // save data to local storage
 export function setLocalStorage(key, data) {
 	// check if we need to save what we already have in localStorage
@@ -25,6 +26,7 @@ export function setLocalStorage(key, data) {
 	}
 	localStorage.setItem(key, newStorage);
 }
+
 // set a listener for both touchend and click
 export function setClick(selector, callback) {
   qs(selector).addEventListener("touchend", (event) => {
@@ -79,9 +81,23 @@ export function loadHeaderFooter() {
 	renderWithTemplate(footerTemplateFn, footer);
 }
 
-
-
 function capitalize(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
+export function cleanSearch(search) {
+  let cleanedSearch = search.trim();
+  return cleanedSearch;
+}
+
+export function renderItemData(item, element) {
+  let html = '';
+  html += `<img src="${item.image_url}" alt="main image of product">`;
+  html += `<h1>${item.product_name}</h1>`;
+  html += `<h2>${item.code}</h2>`;
+  html += `<p>Serving Size: ${item.serving_size}</p>`;
+  html += `<p>Allergens: ${item.allergens_from_ingredients}</p>`;
+
+  element.innerHTML = html;
+  return;
+}
