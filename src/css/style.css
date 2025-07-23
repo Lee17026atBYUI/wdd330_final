@@ -13,7 +13,6 @@
   --royal-purple: #7D5BA6;
   --celeste-blue: #B1F8F2;
   --teal: #087E8B;
-
 }
 
 /* custom font */
@@ -36,12 +35,13 @@
 
 /* image links */
 .logo_link {
-  height: 65px;
-  width: 55px;
+  height: 85px;
+  width: 65px;
 }
 .github_link {
-  width: 40px;
-  height: 40px;
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
 }
 
 /* text */
@@ -50,17 +50,196 @@ h1, h2, h3, p, a, div {
   color: var(--text-color);
 }
 
+/* header */
+header {
+  margin-bottom: 20px;
+}
+header a:link{
+  text-decoration: none;
+  padding-right: 60px;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 1.2rem;
+}
+header a:hover{
+  color: var(--pale-purple);
+}
+
+/* footer */
+footer {
+  display: flex;
+  padding-top: 1rem;
+  justify-content: space-between;
+}
+
 /* main */
 body {
   background-color: var(--background-color);
 }
+h1 {
+  text-align: center;
+}
+hr {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double var(--celeste-blue);
+  color: var(--celeste-blue);
+  text-align: center;
+}
+hr:after {
+  content: "🫐";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: var(--background-color);
+}
 
 /* main page */
+.search-input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 21rem;
+  padding: 1rem;
+  font-size: 1.4rem;
+  text-align: center;
+  font-family: 'Gest Mono', monospace;
+}
+.search-icon-container {
+  display: flex;
+}
+.search-icon {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2.5rem;
+  padding: 0.8rem 2.5rem;
+  font-size: 1.2rem;
+  border: var(--royal-purple) 2px solid;
+  background-color: var(--royal-purple);
+  transition: border 300ms;
+  cursor: pointer;
+}
+.search-icon:hover {
+  border: var(--pale-purple) 2px solid;
+}
 #upc_explainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 230px;
   width: 350px;
 }
 
+/* item page */
+.item-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.item-code {
+  text-align: center;
+}
+.item-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.item-table td {
+  border: 1px solid var(--royal-purple);
+  padding: 8px;
+  transition: color 1s; 
+  transition: background-color 1s;
+}
+.item-table tr {
+  transition: color 600ms; 
+  transition: background-color 600ms;
+}
+.item-table tr:nth-child(even) {
+  background-color: var(--teal);
+}
+.item-table td:nth-child(even) {
+  text-align: right;
+}
+.item-table tr:hover {
+  background-color: var(--pale-purple);
+  color: var(--royal-purple);
+}
+#save_item {
+  margin-top: 30px;
+}
+/* source: https://www.w3schools.com/howto/howto_js_snackbar.asp */
+#snackbar {
+  visibility: hidden; /* Hidden by default. Visible on click */
+  min-width: 250px; /* Set a default minimum width */
+  margin-left: -125px; /* Divide value of min-width by 2 */
+  background-color: #333; /* Black background color */
+  color: #fff; /* White text color */
+  text-align: center; /* Centered text */
+  border-radius: 2px; /* Rounded borders */
+  padding: 16px; /* Padding */
+  position: fixed; /* Sit on top of the screen */
+  z-index: 1; /* Add a z-index if needed */
+  left: 50%; /* Center the snackbar */
+  bottom: 30px; /* 30px from the bottom */
+}
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+  visibility: visible; /* Show the snackbar */
+  /* Add animation: Take 0.5 seconds to fade in and out the snackbar.
+  However, delay the fade out process for 2.5 seconds */
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+/* compare page */
+#compare {
+    overflow: auto;
+}
+.compare-table {
+  min-width: 750px;
+}
+.compare-table .compare-row {
+  text-align: right;
+}
+.compare-table td:nth-child(1) {
+  text-align: left;
+}
+
+/* settings page */
+
+.settings-item-delete {
+  width: fit-content;
+  margin-bottom: 1.5rem;
+  padding: 0.8rem 2.5rem;
+  font-size: 1.2rem;
+  border: var(--royal-purple) 2px solid;
+  background-color: var(--royal-purple);
+  transition: border 300ms;
+  cursor: pointer;
+}
+.settings-item-delete:hover {
+  border: var(--pale-purple) 2px solid;
+}
 
 
 
@@ -68,11 +247,17 @@ body {
 /* bigger screens */
 @media only screen and (min-width: 480px) {
   /* general */
-  body {
-    /* background-color: blue; */
-  }
   main {
     max-width: 900px;
     margin-inline: auto;
+  }
+
+  /* item page */
+  .item-image {
+    padding-top: 20px;
+  }
+  #item_display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
 }
